@@ -3,7 +3,18 @@ Bioinformatics-Servers: 收集生物专业科研工作数据分析中使用的�
 
 > **Author：** 苗奔奔 HiPlot (https://hiplot.com.cn)生物信息学分析云平台开发者
 \
-**Courses:** https://www.bilibili.com/video/BV1Ey4y1i7Q7?spm_id_from=333.999.0.0
+**生物信息学Omics:** https://mp.weixin.qq.com/s/jFqwIuKQ4ihyoTLnBi0fMw
+\
+Course(生物信息学Omics):
+\
+Part 1: https://mp.weixin.qq.com/s/YAAhubdAblRJ8heynQD5fg
+\
+Part 2: https://mp.weixin.qq.com/s/S5-qZdGP9cxLIvSGTjMXyA
+\
+Part 3: https://mp.weixin.qq.com/s/8SqcM96aPVinL-cufoUpsw
+\
+Course(BiliBili): https://www.bilibili.com/video/BV1Ey4y1i7Q7
+
 
 ## 1. 基因水平
 ### 1.1 近缘物种序列比对:
